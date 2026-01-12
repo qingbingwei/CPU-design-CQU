@@ -6,6 +6,7 @@
  * @param b: 加数2
  * @param y: 结果
  * @hello worlds
+ * @pull request test by qingbingwei
  */
 module adder(
 	input wire[31:0] a,b,
