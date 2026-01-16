@@ -7,6 +7,8 @@
  * @param y: 结果
  * @hello worlds
  * @pull request test by qingbingwei
+
+ bmknk
  */
 module adder(
 	input wire[31:0] a,b,
